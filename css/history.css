@@ -1,0 +1,57 @@
+.reveal .history {
+    font-size: 0.8em;
+    display: flex !important;
+    flex-direction: column;
+    max-width: 60vw;
+    margin: auto;
+    overflow-y: hidden;
+}
+
+.reveal .history__commit {
+    display: block !important;
+    overflow: hidden;
+    margin-top: 0.5em;
+}
+
+.reveal .history__metadata {
+    display: block;
+    font-size: 0.5em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+
+.reveal .metadata__commit-id {
+    color: #ff4081;
+    font-family: "Source Code Pro", monospace;
+}
+
+.reveal .metadata__commit-id::after {
+    content: ":";
+}
+
+.reveal .metadata__commit-author {
+    font-weight: bold;
+}
+
+.reveal .metadata__commit-date {
+    display: inline-block;
+    font-weight: 200;
+}
+
+.reveal .metadata__commit-date::before {
+    content: "[";
+}
+
+.reveal .metadata__commit-date::after {
+    content: "]";
+}
+
+.reveal .history__mesg {
+    display: block;
+    padding: 0px !important;
+    margin: 0px;
+    width: 50vw;
+    font-family: "Source Code Pro", monospace;
+    font-size: 0.8em;
+    background: rgba(0,0,0,0.0392);
+}

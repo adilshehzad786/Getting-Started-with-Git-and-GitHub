@@ -1,0 +1,5 @@
+## Scope
+
+- branches
+- merge
+- rebase

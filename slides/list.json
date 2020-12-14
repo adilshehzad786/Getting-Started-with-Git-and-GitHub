@@ -1,0 +1,288 @@
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-state": "section-title"
+        }
+    },
+    "link.md",
+    [
+        "scope.md",
+        "goodies.md",
+        "notation.md"
+    ],
+    {
+        "filename": "what/index.md",
+        "attr": {
+            "data-state": "subsection-title",
+            "id": "what"
+        }
+    },
+    "what/good-vc.md",
+    "what/bad-vc.md",
+    {
+        "attr": {
+            "data-background-image": "img/bad-VC.png",
+            "data-background-size": "75vw"
+        }
+    },
+    "what/commented-code.md",
+    [
+        "what/commandline.html",
+        "what/command-syntax.html",
+        "what/filesystem.md"
+    ],
+    {
+        "filename": "what/github.md",
+        "attr": {
+            "data-state": "subsection-title"
+        }
+    },
+    "what/online-interface.md",
+    "what/github-features.md",
+    {
+        "filename": "get/index.md",
+        "attr": {
+            "data-state": "section-title",
+            "id": "get"
+        }
+    },
+    [
+        "get/installation.html",
+        "get/linux.md",
+        "get/mac-osx.md",
+        "get/windows.md"
+    ],
+    "get/hello-world.md",
+    "get/configure.md",
+    "get/email.md",
+    "get/config-user.md",
+    {
+        "filename": "basic/index.md",
+        "attr": {
+            "data-state": "section-title",
+            "id": "basic"
+        }
+    },
+    "basic/scope.md",
+    {
+        "filename": "basic/repository/index.md",
+        "attr": {
+            "data-state": "subsection-title",
+            "id": "repository"
+        }
+    },
+    "basic/repository/a-folder.md",
+    "basic/repository/versions.md",
+    "basic/repository/get-a-repository.md",
+    [
+        "basic/repository/git-init.md",
+        "basic/repository/git-folder.md",
+        "basic/repository/git-folder-protected.md"
+    ],
+    "basic/repository/current-folder.md",
+    "basic/repository/sbs-init.md",
+    "basic/repository/git-clone.md",
+    [
+        "basic/repository/new-folder.md",
+        "basic/repository/clone-dest.md"
+    ],
+    "basic/repository/path.md",
+    "basic/repository/sbs-clone.md",
+    [
+        "basic/repository/git-status.md",
+        "basic/repository/status-suggestions.md"
+    ],
+    {
+        "filename": "basic/staging/index.md",
+        "attr": {
+            "data-state": "subsection-title",
+            "id": "staging"
+        }
+    },
+    "basic/staging/staging-and-committing.md",
+    "basic/staging/commit-anatomy.md",
+    [
+        "basic/staging/git-add.md",
+        "basic/staging/git-add-p.md"
+    ],
+    "basic/staging/file.md",
+    "basic/staging/git-commit.md",
+    "basic/staging/commit-message.md",
+    "basic/staging/sbs-add-commit.md",
+    "basic/staging/supplementary.md",
+    "basic/staging/git-reset.md",
+    [
+        "basic/staging/git-checkout.md",
+        "basic/staging/git-checkout-dot.md"
+    ],
+    "basic/staging/git-diff.md",
+    {
+        "filename": "basic/history/index.md",
+        "attr": {
+            "data-state": "subsection-title",
+            "id": "history"
+        }
+    },
+    "basic/history/key-history.md",
+    "basic/history/key-commits.md",
+    "basic/history/commits.md",
+    "basic/history/bad-history.html",
+    "basic/history/good-history.html",
+    "basic/history/grammar.md",
+    "basic/history/context.md",
+    "basic/history/multi-line.md",
+    "basic/history/email-syntax.md",
+    "basic/history/git-log.md",
+    "basic/history/log-entry.md",
+    "basic/history/log-ommission.md",
+    "basic/history/git-log-stat.md",
+    "basic/history/git-log-patch.md",
+    "basic/history/git-log-follow.md",
+    "basic/history/less.md",
+    "basic/history/git-log-oneline.md",
+    "basic/history/git-log-n.md",
+    "basic/history/git-revert.md",
+    "basic/history/reverse-commit.md",
+    "basic/history/sbs-revert.md",
+    [
+        "basic/get-help.md",
+        "basic/git-help.md",
+        "basic/man-git.md"
+    ],
+    {
+        "filename": "advanced/index.md",
+        "attr": {
+            "data-state": "section-title",
+            "id": "advanced"
+        }
+    },
+    "advanced/scope.md",
+    {
+        "filename": "advanced/branches/index.md",
+        "attr": {
+            "data-state": "subsection-title",
+            "id": "branches"
+        }
+    },
+    "advanced/branches/branching-history.md",
+    "advanced/branches/multiple.md",
+    "advanced/branches/unrelated.md",
+    "advanced/branches/good-branches.md",
+    "advanced/branches/branch-vis.html",
+    "advanced/branches/git-branch.md",
+    "advanced/branches/master.md",
+    "advanced/branches/git-branch-name.md",
+    "advanced/branches/split-from.md",
+    "advanced/branches/branch-does-not-checkout.md",
+    "advanced/branches/git-checkout.md",
+    "advanced/branches/ref.md",
+    "advanced/branches/change.md",
+    "advanced/branches/sbs-branch.md",
+    {
+        "filename": "advanced/merge/index.md",
+        "attr": {
+            "data-state": "subsection-title",
+            "id": "merge"
+        }
+    },
+    "advanced/merge/integrate.md",
+    "advanced/merge/merge-vis.html",
+    "advanced/merge/git-merge.md",
+    "advanced/merge/ff-no-ff.md",
+    "advanced/merge/merge-commit.md",
+    "advanced/merge/fast-forward.md",
+    "advanced/merge/conflict.md",
+    "advanced/merge/conflict-vis.md",
+    "advanced/merge/conflict-fix.md",
+    [
+        "advanced/merge/sbs-conflict.md",
+        "advanced/merge/git-reset.md"
+    ],
+    {
+        "filename": "advanced/rebase/index.md",
+        "attr": {
+            "data-state": "subsection-title",
+            "id": "rebase"
+        }
+    },
+    "advanced/rebase/transplant.md",
+    {
+        "attr": {
+            "data-background-image": "img/png/pre-rebase.png",
+            "data-background-size": "100vw"
+        }
+    },
+    {
+        "attr": {
+            "data-background-image": "img/png/post-rebase.png",
+            "data-background-size": "100vw"
+        }
+    },
+    "advanced/rebase/update.md",
+    "advanced/rebase/git-rebase.md",
+    "advanced/rebase/rewind.md",
+    "advanced/rebase/conflicts.md",
+    [
+        "advanced/rebase/git-rebase-abort.md",
+        "advanced/rebase/git-rebase-Xtheirs.md",
+        "advanced/rebase/git-rebase-Xours.md",
+        "advanced/rebase/X-vs-merge.md"
+    ],
+    {
+        "filename": "github/index.md",
+        "attr": {
+            "data-state": "section-title",
+            "id": "github"
+        }
+    },
+    "github/sign-up.md",
+    "github/platform.md",
+    "github/scope.md",
+    {
+        "filename": "github/repo/index.md",
+        "attr": {
+            "data-state": "subsection-title",
+            "id": "github-repo"
+        }
+    },
+    "github/repo/what-is.md",
+    "github/repo/readme.md",
+    "github/repo/example.md",
+    "github/repo/new.md",
+    "github/repo/new-dialog.md",
+    "github/repo/sbs-new.md",
+    "github/repo/empty.md",
+    {
+        "filename": "github/remote/index.md",
+        "attr": {
+            "data-state": "subsection-title",
+            "id": "remote"
+        }
+    },
+    "github/remote/git-remote-add.md",
+    "github/remote/git-fetch.md",
+    "github/remote/git-push-set-upstream.md",
+    "github/remote/git-push.md",
+    "github/remote/sbs-push.md",
+    "github/remote/git-clone.md",
+    "github/remote/git-pull.md",
+    "github/remote/git-rebase.md",
+    {
+        "filename": "github/collab/index.md",
+        "attr": {
+            "data-state": "subsection-title",
+            "id": "github-collaborating"
+        }
+    },
+    "github/collab/issue-pr.md",
+    "github/collab/issue.md",
+    "github/collab/sbs-issue.md",
+    "github/collab/pr.md",
+    "github/collab/pr-example.md",
+    "github/collab/pr-prerec.md",
+    "github/collab/pr-new.md",
+    "github/collab/sbs-pr.md",
+    "questions.md",
+    "feedback.md"
+]
