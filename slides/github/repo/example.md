@@ -1,5 +1,4 @@
-Example [repository][glfmn/github-workshop]:
+Example :
 
-[![github workshop repository as example](img/png/github--repo-example.png)][glfmn/github-workshop]
+[![github workshop repository as example](img/png/github-repo-example.png)][adilshehzad786/github-webinar]
 
-[glfmn/github-workshop]: https://github.com/glfmn/github-workshop

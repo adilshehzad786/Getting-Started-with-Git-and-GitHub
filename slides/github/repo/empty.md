@@ -1,6 +1,6 @@
 ![example empty repository][empty]
 
-[empty]: img/png/github-empty-repo.png
+[empty]: img/png/github--repo-example.png
 
 Note:
 **GitHub** is nice enough to provide instructions

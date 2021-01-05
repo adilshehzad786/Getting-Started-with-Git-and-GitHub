@@ -1,5 +1,4 @@
 ## Scope
 
 - branches
-- merge
-- rebase
+
