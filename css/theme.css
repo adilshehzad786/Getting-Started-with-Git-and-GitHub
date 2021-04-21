@@ -281,8 +281,9 @@ body {
   margin: 0.15em 0em; }
 
 .section-title body {
-  background: #A5257F;
-  backround-color: #A5257F;
+  background: black;
+  backround-color: black;
+  font-family: monospace;
   color: #e6dada !important; }
 
 .section-title body main section, .section-title body main section h1, .section-title body main section h2, .section-title body main section h3, .section-title body main section h4, .section-title body main section h5, .section-title body main section h6,
